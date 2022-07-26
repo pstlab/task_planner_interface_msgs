@@ -5,3 +5,5 @@ string[] parameters
 int64[] start
 int64[] end
 int64[] duration
+string[] fact_components
+string[] fact_predicates
